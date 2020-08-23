@@ -1,0 +1,7 @@
+#Successful Tests
+#Tue Aug 11 03:31:10 PDT 2020
+com.lightbend.akkassembly.PaintShopTest=1597141870422
+com.lightbend.akkassembly.BodyShopTest=1597141869930
+com.lightbend.akkassembly.WheelShopTest=1597141869997
+com.lightbend.akkassembly.AuditorTest=1597141870367
+com.lightbend.akkassembly.EngineShopTest=1597141868710

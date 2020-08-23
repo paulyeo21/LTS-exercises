@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/paul.yeo/Develop/LTS-P-lightbend-akka-streams-for-scala-professional-v1/exercises/exercises/src/test/scala/com/lightbend/akkassembly/QualityAssuranceTest.scala:13:20: not found: type QualityAssurance[0m
+[0m[[0m[31merror[0m] [0m[0m      val qa = new QualityAssurance()[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/paul.yeo/Develop/LTS-P-lightbend-akka-streams-for-scala-professional-v1/exercises/exercises/src/test/scala/com/lightbend/akkassembly/QualityAssuranceTest.scala:29:20: not found: type QualityAssurance[0m
+[0m[[0m[31merror[0m] [0m[0m      val qa = new QualityAssurance()[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/paul.yeo/Develop/LTS-P-lightbend-akka-streams-for-scala-professional-v1/exercises/exercises/src/test/scala/com/lightbend/akkassembly/QualityAssuranceTest.scala:45:20: not found: type QualityAssurance[0m
+[0m[[0m[31merror[0m] [0m[0m      val qa = new QualityAssurance()[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/paul.yeo/Develop/LTS-P-lightbend-akka-streams-for-scala-professional-v1/exercises/exercises/src/test/scala/com/lightbend/akkassembly/QualityAssuranceTest.scala:61:20: not found: type QualityAssurance[0m
+[0m[[0m[31merror[0m] [0m[0m      val qa = new QualityAssurance()[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

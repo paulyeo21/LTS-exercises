@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/paul.yeo/Develop/LTS-P-lightbend-akka-streams-for-scala-professional-v1/exercises/exercises/src/main/scala/com/lightbend/akkassembly/QualityAssurance.scala:14:103: method seq in trait Iterable is deprecated (since 2.13.0): Iterable.seq always returns the iterable itself[0m
+[0m[[0m[33mwarn[0m] [0m[0m        case car if isCompleted(car) => Car(SerialNumber(), car.color.get, car.engine.get, car.wheels.seq, car.upgrade)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

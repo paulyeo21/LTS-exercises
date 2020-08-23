@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mAuditorTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcount[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return zero if the stream is empty[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should count elements in the stream[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mlog[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should log nothing if the source is empty.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should log all elements to the logging adapter.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should log the exact element[0m[0m

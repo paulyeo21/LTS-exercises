@@ -1,0 +1,45 @@
+test
+listExercises
+nextLesson
+nextExercise
+show
+man e
+val = [1,2,3]
+test
+tes
+test
+clear
+test
+nextLesson
+nextExercise
+test
+saveState
+test
+nextExercise
+test
+saveState
+test
+saveState
+test
+saveState
+pullSolution
+test
+nextExercise
+test
+nextExercise
+test
+pullSolution
+nextExercise
+test
+nextExercise
+pullTemplate scala/com/lightbend/akkassembly/Akkassembly.scala
+test
+run
+nextExercise
+run
+nextExercise
+run
+prevExercise
+pullSolution
+nextExercise
+run

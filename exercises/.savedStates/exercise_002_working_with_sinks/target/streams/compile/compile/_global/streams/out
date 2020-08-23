@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/paul.yeo/Develop/LTS-P-lightbend-akka-streams-for-scala-professional-v1/exercises/exercises/src/main/scala/com/lightbend/akkassembly/Auditor.scala:10:31: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Int(1)[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m    case (sum, elem) => sum + 1[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/paul.yeo/Develop/LTS-P-lightbend-akka-streams-for-scala-professional-v1/exercises/exercises/src/main/scala/com/lightbend/akkassembly/Auditor.scala:9:58: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : akka.stream.scaladsl.Sink[Int,scala.concurrent.Future[Any]][0m
+[0m[[0m[31merror[0m] [0m[0m required: akka.stream.scaladsl.Sink[Any,scala.concurrent.Future[Int]][0m
+[0m[[0m[31merror[0m] [0m[0m  val count: Sink[Any, Future[Int]] = Sink.fold[Any, Int](0) {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

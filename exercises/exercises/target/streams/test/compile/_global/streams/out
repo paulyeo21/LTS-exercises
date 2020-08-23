@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/paul.yeo/Develop/LTS-P-lightbend-akka-streams-for-scala-professional-v1/exercises/exercises/src/test/scala/com/lightbend/akkassembly/FactoryTest.scala:17:95: too many arguments (6) for constructor Factory: (bodyShop: com.lightbend.akkassembly.BodyShop, paintShop: com.lightbend.akkassembly.PaintShop, engineShop: com.lightbend.akkassembly.EngineShop, wheelShop: com.lightbend.akkassembly.WheelShop, qualityAssurance: com.lightbend.akkassembly.QualityAssurance)(implicit system: akka.actor.ActorSystem)com.lightbend.akkassembly.Factory[0m
+[0m[[0m[31merror[0m] [0m[0m      val factory = new Factory(bodyShop, paintShop, engineShop, wheelShop, qualityAssurance, upgradeShop)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
